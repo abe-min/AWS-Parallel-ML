@@ -1,4 +1,4 @@
-# CS 643: Programming Assignment 2
+# Parallel Machine Learning in AWS
 
 ### GitHub Link: https://github.com/abe-min/CS-643-Programming-Assignment-2
 ### DokerHub Link: https://hub.docker.com/r/abemindaye/progass2 
